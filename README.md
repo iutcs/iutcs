@@ -17,23 +17,34 @@ IUTCS members have attained numerous prestigious achievements in the ICT sector,
 Our goal is to continue striving for excellence and contribute to the ever-evolving ICT field.
 
 ## 🏆 Achievements
-### **WEB OFF 2023**
-Team Minty Developers from CSE'19 emerged as champions of "The Great Web Off" competition, showcasing incredible technical prowess and creativity! Team 2021 also secured an impressive second place. A round of applause for these talented developers!
 
-### **Linux Foundation Mentee**
-Nihan Anam from SWE'19 became a mentee with the Linux Foundation! We congratulate her on this remarkable achievement!
+- **BRACNet Inter University Programming Contest 2023**  
+  IUT_সংশপ্তক secured 1st runners-up position in this competition.
 
-### **ITVerse 2023**
-IUTCS teams displayed outstanding performance in the ‘Cefalo presents ITVerse 2023’ competition. Their achievements in multiple categories have brought immense pride to our community!
+- **ITVerse 2023**  
+  4 Teams from IUT secured top positions spanning 3 different competitions in this prestigious competition.
 
-### **FOREWARN Disaster Hackathon 1.0**
-Team ReliefChain's victory at the FOREWARN Disaster Hackathon 1.0 speaks volumes about their dedication and innovative spirit in tackling humanitarian challenges.
+- **FOREWARN Disaster Hackathon 1.0**  
+  Team ReliefChain secured the 1st position.
 
-### **International Blockchain Olympiad 2023 Nomination**
-Best of luck to Team Hexa, Team Minty Blockers, and Team Strawhats, who will be representing Bangladesh at the International Blockchain Olympiad 2023 in the Netherlands.
+- **Inter-University Capture The Flag (CTF) organized by BUET**  
+  IUT GENESIS became the CHAMPION of this competition.
 
-### **CoU-BRACNet Inter University Programming Contest 2023**
-Congratulations to team IUT_সংশপ্তক for securing the 1st runners-up position! We couldn't be prouder of this fantastic accomplishment.
+- **Luna Shamsuddoha DevMania 2023**  
+  Team LoAaNa successfully achieved the position of 1st runner's up.
+
+- **ICPC Dhaka Regional Contest 2022**  
+  Team 'IUT_slowFourierTransform' secured 8th place (out of 162 teams).
+
+- **International Blockchain Olympiad 2023**  
+  Team Hexa, along with Team Minty Blockers and Team Strawhats, represented Bangladesh at the competition in the Netherlands.
+
+- **Orbitax SUST SWE Technovent Brain Station 23 Hackathon**  
+  IUT Pixel became the Champion of this hackathon.
+
+- **RIoT Center Flag Hunt 2022**  
+  IUT GENESIS secured top positions.
+
 
 ## 📞 Contact Us
 **Address:** Islamic University of Technology, Boardbazar, Gazipur  
